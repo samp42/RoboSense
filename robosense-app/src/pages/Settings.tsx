@@ -1,7 +1,7 @@
-export function Welcome() {
+export default function Settings() {
     return (
         <div class="container">
-            <h1>Welcome</h1>
+            <h1>Settings</h1>
         </div>
     );
 }

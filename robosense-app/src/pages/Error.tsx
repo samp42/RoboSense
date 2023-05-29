@@ -1,7 +1,7 @@
-export function Welcome() {
+export default function Error() {
     return (
         <div class="container">
-            <h1>Welcome</h1>
+            <h1>Error</h1>
         </div>
     );
 }

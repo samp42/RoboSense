@@ -1,7 +1,7 @@
-export function Welcome() {
+export function LabellingMenu() {
     return (
         <div class="container">
-            <h1>Welcome</h1>
+            <h1>LabellingMenu</h1>
         </div>
     );
 }
