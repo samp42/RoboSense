@@ -1,3 +1,7 @@
+.frame-list {
+    overflow-y: scroll;
+}
+
 .frame-list-image {
-    max-width: 12vw;
+    width: 80%;
 }
